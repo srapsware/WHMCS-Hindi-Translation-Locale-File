@@ -1,6 +1,6 @@
 # WHMCS Hindi Translation Locale File
-WHMCS Hindi Translation Locale File
 
+How to use it?
 
 Upload `/lang/` directory in `root` directory.
 
