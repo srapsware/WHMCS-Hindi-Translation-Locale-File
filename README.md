@@ -8,4 +8,4 @@ if you want to overrides for Hindi then you can do edit by file `hindi.php` in d
 
 More: https://developers.whmcs.com/languages/overrides/
 
-# You can also help improve the translation of the WHMCS into Hindi through the pull request.
+### You can also help improve the translation of the WHMCS into Hindi through the pull request.
