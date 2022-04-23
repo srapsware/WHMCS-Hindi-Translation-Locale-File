@@ -23,11 +23,11 @@ if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
 $_LANG['locale'] = "hi_IN";
 
-$_LANG['accountinfo'] = "Account Information";
-$_LANG['accountstats'] = "Account Statistics";
-$_LANG['addfunds'] = "Add Funds";
-$_LANG['addfundsamount'] = "Amount to Add";
-$_LANG['addfundsmaximum'] = "Maximum Deposit";
+$_LANG['accountinfo'] = "खाते की जानकारी";
+$_LANG['accountstats'] = "खाता सांख्यिकी";
+$_LANG['addfunds'] = "धन जोड़ें";
+$_LANG['addfundsamount'] = "जोड़ने के लिए राशि";
+$_LANG['addfundsmaximum'] = "अधिकतम जमा";
 $_LANG['addfundsmaximumbalance'] = "Maximum Balance";
 $_LANG['addfundsmaximumbalanceerror'] = "Maximum Balance amount is";
 $_LANG['addfundsmaximumerror'] = "Maximum Deposit amount is";
