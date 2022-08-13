@@ -1,7 +1,7 @@
 <?php
 /**
  * WHMCS Language File
- * English (en)
+ * Hindi (hi)
  *
  * Please Note: These language files are overwritten during software updates
  * and therefore editing of these files directly is not advised. Instead we
@@ -3743,4 +3743,4 @@ $_LANG['requestor'] = "Requestor";
 
 $_LANG['facebook']['notAuthorized'] = "You did not authorize the use of Facebook for authentication. We can't use it to log you in.";
 
-////////// End of english language file.  Do not place any translation strings below this line!
+////////// End of hindi language file.  Do not place any translation strings below this line!
