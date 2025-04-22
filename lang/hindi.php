@@ -1,7 +1,7 @@
 <?php
 /**
  * WHMCS Language File
- * Global English (en_001)
+ * Hindi (hi_IN)
  *
  * Please Note: These language files are overwritten during software updates
  * and therefore editing of these files directly is not advised. Instead we
@@ -20,8 +20,6 @@
  */
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
-
-<?php
 
 $_LANG['locale'] = "hi_IN";
 $_LANG['aboutsecurityquestions'] = "सुरक्षा प्रश्न क्यों?";
